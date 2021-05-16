@@ -4,9 +4,10 @@
 Game *game = nullptr;
 
 int main(int argc, const char * argv[]) {
+
     game = new Game();
 
-    game->init("src", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 800, 600, false);
+    game->init("Ice Tower 2", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 800, 600, false);
 
     while(game->running())
     {
