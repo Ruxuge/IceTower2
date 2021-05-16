@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruxuge/CLionProjects/IceTowerForTwo/src/Game.cpp
+iostream
+-
+Game.h
+/home/ruxuge/CLionProjects/IceTowerForTwo/src/Game.h
+
+/home/ruxuge/CLionProjects/IceTowerForTwo/src/Game.h
+SDL2/SDL.h
+/home/ruxuge/CLionProjects/IceTowerForTwo/src/SDL2/SDL.h
+iostream
+-
+
+/home/ruxuge/CLionProjects/IceTowerForTwo/src/main.cpp
+SDL2/SDL.h
+-
+Game.h
+/home/ruxuge/CLionProjects/IceTowerForTwo/src/Game.h
+

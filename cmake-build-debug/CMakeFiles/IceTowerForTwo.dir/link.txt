@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/IceTowerForTwo.dir/src/main.cpp.o CMakeFiles/IceTowerForTwo.dir/src/Game.cpp.o -o IceTowerForTwo 
